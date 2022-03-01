@@ -1,11 +1,11 @@
 # coder
 Codificador simples feito em javascript
 ### Regras Codificador: 
-"e" é convertido para "enter" 
-"i" é convertido para "imes"
-"a" é convertido para "ai"
-"o" é convertido para "ober"
-"u" é convertido para "ufat"
+- "e" é convertido para "enter" 
+- "i" é convertido para "imes"
+- "a" é convertido para "ai"
+- "o" é convertido para "ober"
+- "u" é convertido para "ufat"
 
 
 ###  Regras Decodificador: 
