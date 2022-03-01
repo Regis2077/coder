@@ -9,10 +9,10 @@ Codificador simples feito em javascript
 
 
 ###  Regras Decodificador: 
-"enter" é convertido para "e" 
-"imes" é convertido para "i"
-"ai" é convertido para "a"
-"ober" é convertido para "o"
-"ufat" é convertido para "u"
+- "enter" é convertido para "e" 
+- "imes" é convertido para "i"
+- "ai" é convertido para "a"
+- "ober" é convertido para "o"
+- "ufat" é convertido para "u"
  
 
